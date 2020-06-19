@@ -1,0 +1,5 @@
+{
+    "action" : "publish",
+    "topic" : "demo/jobs",
+    "message" : "awsiot job-pub demo"
+}

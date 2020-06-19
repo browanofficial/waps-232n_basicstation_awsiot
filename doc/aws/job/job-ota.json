@@ -1,0 +1,11 @@
+[
+    {
+        "action" : "ota",
+        "modelName" : "Lora-WAPS-232n_LW_awsiot",
+        "verType" : "stable",
+        "message" : "Over-the-air programming",
+        "sourceFile" : "otatest.tar.gz",
+        "otaServer" : "https://ota-s.giotgateway.com/dm/v2/fota",
+        "bucketURL" : "https://bro-dmfirmware.s3-us-west-2.amazonaws.com"
+    }
+]
